@@ -1,5 +1,6 @@
-# ActiveDirectoryHealthCheck
-Active Directory Health Check
+# Active Directory Health Check
+## Version 1.0
+
 
 Generating the Active Directory Health Check report is a cumbersome task. I have developed this PowerShell script to make the life of the Active Directory Administrator easy. Please give me your comments, feedback and fork me on Github.
 
